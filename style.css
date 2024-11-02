@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #209cdb);
+    color: #333;
+    text-align: center;
+    padding: 50px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    text-align: center;
+    position: relative;
+}
+
+.clickable-box {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(242, 246, 242);
+    margin: 20px auto;
+    position: relative;
+}
+
+.hidden {
+    visibility: hidden;
+    width: 200px;
+    height: 150px;
+    background-image: url('cat.png'); /* Replace with your cat image URL */
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.found {
+    visibility: visible;
+}
