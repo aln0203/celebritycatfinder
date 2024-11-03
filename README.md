@@ -39,7 +39,8 @@ this page is where the fun begins
 and yes you got it!!
 
 Our working live website!!
-![website!!](https://aln0203.github.io/celebritycatfinder/)
+[Visit My Website](https://aln0203.github.io/celebritycatfinder/)
+
 
 Team Contributions
 ALAN ABRAHAM ANIL-  FRONT-END AND BACK-END
